@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cotton_candies",
+  "pattern": [
+    "#",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "cottoncandy:cotton_candy"
+  }
+}
