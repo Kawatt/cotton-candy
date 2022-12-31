@@ -1,6 +1,6 @@
 # Cotton Candy Mod for Minecraft
 
-https://www.curseforge.com/minecraft/mc-mods/origins
+
 
 This is the GitHub repository for the Cotton Candy Mod mod, created for Fabric.
 
